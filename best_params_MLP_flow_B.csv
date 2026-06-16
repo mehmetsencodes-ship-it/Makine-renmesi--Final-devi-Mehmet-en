@@ -1,0 +1,6 @@
+fold,model__activation,model__hidden_layer_sizes
+1,relu,"(100,)"
+2,relu,"(50,)"
+3,relu,"(50,)"
+4,relu,"(50,)"
+5,relu,"(100,)"
